@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "bin\\Debug\\x64\\Math.ixx.obj",
+            "outputs": [
+                "D:\\VisualStudio\\Derictories\\CppLab5-main\\MathLibTests\\bin\\Debug\\x64\\vc143.pdb",
+                "bin\\Debug\\x64\\",
+                "D:\\VisualStudio\\Derictories\\CppLab5-main\\MathLibTests\\bin\\Debug\\x64\\Math.ixx.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "Math",
+                    "source-path": "d:\\visualstudio\\derictories\\cpplab5-main\\mathlib\\math.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

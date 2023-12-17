@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "bin\\Debug\\x64\\Math.ixx.obj",
+            "outputs": [
+                "C:\\Users\\mihai\\source\\repos\\RBPOlab3\\bin\\Debug\\x64\\MathLib.pdb",
+                "bin\\Debug\\x64\\",
+                "C:\\Users\\mihai\\source\\repos\\RBPOlab3\\MathLib\\bin\\Debug\\x64\\Math.ixx.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "Math",
+                    "source-path": "c:\\users\\mihai\\source\\repos\\rbpolab3\\mathlib\\math.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

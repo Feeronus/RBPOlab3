@@ -1,0 +1,10 @@
+﻿  Проверка источников на наличие зависимостей модуля…
+  Math.ixx
+  Компиляция…
+  Math.ixx
+C:\Users\mihai\source\repos\RBPOlab3\MathLib\Math.ixx(136,26): warning C4455: "operator ""i": идентификаторы литеральных суффиксов, которые начинаются не с символа подчеркивания, зарезервированы
+C:\Users\mihai\source\repos\RBPOlab3\MathLib\Math.ixx(137,26): warning C4455: "operator ""i": идентификаторы литеральных суффиксов, которые начинаются не с символа подчеркивания, зарезервированы
+C:\Users\mihai\source\repos\RBPOlab3\MathLib\Math.ixx(166,24): warning C4455: "operator ""i": идентификаторы литеральных суффиксов, которые начинаются не с символа подчеркивания, зарезервированы
+C:\Users\mihai\source\repos\RBPOlab3\MathLib\Math.ixx(170,24): warning C4455: "operator ""i": идентификаторы литеральных суффиксов, которые начинаются не с символа подчеркивания, зарезервированы
+C:\Users\mihai\source\repos\RBPOlab3\MathLib\Math.ixx(381,24): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  MathLib.vcxproj -> C:\Users\mihai\source\repos\RBPOlab3\bin\Debug\x64\MathLib.lib

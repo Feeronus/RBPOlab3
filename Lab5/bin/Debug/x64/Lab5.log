@@ -1,0 +1,5 @@
+﻿  Проверка источников на наличие зависимостей модуля…
+  main.cpp
+C:\Users\mihai\source\repos\RBPOlab3\Lab5\main.cpp(14,22): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mihai\source\repos\RBPOlab3\Lab5\main.cpp(14,17): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Lab5.vcxproj -> C:\Users\mihai\source\repos\RBPOlab3\bin\Debug\x64\Lab5.exe
